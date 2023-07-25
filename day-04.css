@@ -31,4 +31,8 @@ tr{
     padding: center;
     align-self: center;
     border-style: double;
+   
+}
+table,th,td{
+    border-style: dotted;
 }
