@@ -4,18 +4,17 @@ body{
 
 h1{
     background-color: bisque;
+    text-align: center;
+    
 }
 
 .link-01{
     margin: 20px;
-    border: 50px solid black;
+    border: 30px solid black;
     border-radius: 60px;
-    margin-right: 34%;
+    text-align: center;
     opacity: .72;
-    align-items: center;
-    align-content: center;
-    margin-left: 34%;
-
+    
 }
 
 tr{
@@ -26,13 +25,16 @@ tr{
     background-color: antiquewhite ;
     border: 3px solid red;
     padding: 20px;
-    margin-top: 20px;
-    margin-right: 80%;
+    margin-left: 44%;
+    margin-right: 44%;
+
     padding: center;
     align-self: center;
     border-style: double;
-   
+    
 }
-table,th,td{
+th,td{
     border-style: dotted;
+    margin-right: auto;
+    margin-left: auto;
 }
