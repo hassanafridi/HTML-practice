@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(100, 150, 60);
+}
+
+h1{
+    background-color: bisque;
+}
+
+.link-01{
+    margin: 20px;
+    border: 50px solid black;
+    border-radius: 60px;
+    margin-right: 34%;
+    opacity: .72;
+    align-items: center;
+    align-content: center;
+    margin-left: 34%;
+
+}
+
+tr{
+    border: 3px solid black;
+
+}
+.table-01{
+    background-color: antiquewhite ;
+    border: 3px solid red;
+    padding: 20px;
+    margin-top: 20px;
+    margin-right: 80%;
+    padding: center;
+    align-self: center;
+    border-style: double;
+   
+}
+table,th,td{
+    border-style: dotted;
+}
